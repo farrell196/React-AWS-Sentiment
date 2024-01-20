@@ -1,1 +1,1 @@
-# React-AWS-Sentiment
+# AWS-Sentiment-Analysis
